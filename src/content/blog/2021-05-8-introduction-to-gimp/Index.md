@@ -7,7 +7,7 @@ tag: "gimp"
 author: "ANJANA1732"
 name: "Anjana S"
 title: "Introduction to Gimp"
-desc: "Two day session on gimp"
+desc: "Two day session on Gimp"
 ---
 
 
