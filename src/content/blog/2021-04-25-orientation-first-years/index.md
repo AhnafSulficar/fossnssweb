@@ -1,5 +1,5 @@
 ---
-path: /blog/2021 - orientation
+path: /blog/2021-orientation
 date: "2021-04-25"
 datestring: "25 April 2021"
 cover: "./FOSS.png"
