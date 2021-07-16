@@ -7,6 +7,11 @@ const MobNavLinks = props => {
         if (!active) setActive(true);
         else setActive(false);
     }
+    const [activeTroop, setActiveTroop] = React.useState(false);
+    function changeStateTroop() {
+        if (!activeTroop) setActiveTroop(true);
+        else setActiveTroop(false);
+    }
 
     return (
         <ul className={props.activateStatus}>
@@ -42,16 +47,6 @@ const MobNavLinks = props => {
             <li>
                 <p>
                     <Link
-                        to='/members'
-                        activeClassName='mobactive-link'
-                        partiallyActive={true}>
-                        TROOP
-                    </Link>
-                </p>
-            </li>
-            <li>
-                <p>
-                    <Link
                         to='/about'
                         activeClassName='mobactive-link'
                         partiallyActive={true}
@@ -59,6 +54,22 @@ const MobNavLinks = props => {
                         ABOUT
                 </Link>
                 </p>
+            </li>
+            <li>
+            <div>
+                <button
+                    className={
+                        activeTroop ? 'accordion activate-accordion' : 'accordion'
+                    }
+                    onClick={changeStateTroop}>
+                    TROOP
+                </button>
+                <NestedListTroop
+                    activateStatus={
+                        activeTroop ? 'nestedListTroop activate-nestedList' : 'nestedList'
+                    }
+                />
+            </div>
             </li>
             <div>
                 <button
@@ -98,6 +109,32 @@ const NestedList = props => (
                     activeClassName='mobactive-link'
                     partiallyActive={true}>
                     GALLERY
+            </Link>
+            </p>
+        </li>
+    </ul>
+);
+
+const NestedListTroop = props => (
+    <ul className={props.activateStatus}>
+
+        <li>
+            <p>
+                <Link
+                    to='/troop2021'
+                    activeClassName='mobactive-link'
+                    partiallyActive={true}>
+                    2021
+                </Link>
+            </p>
+        </li>
+        <li>
+            <p>
+                <Link
+                    to='/troop2020'
+                    activeClassName='mobactive-link'
+                    partiallyActive={true}>
+                    2020
             </Link>
             </p>
         </li>

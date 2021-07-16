@@ -56,10 +56,10 @@ const SecondPage = ({ data }) => (
 );
 
 export const MembersQuery = graphql`
-    query MemberIndexQuery {
+    query MemberIndexQuery2021 {
         allMarkdownRemark(
-            filter: { fileAbsolutePath: { regex: "/members/2020/.*md$/" } }
-            sort: { fields: [frontmatter___name], order: ASC }
+            filter: { fileAbsolutePath: { regex: "/members/2021/.*md$/" } }
+            sort: { fields: [frontmatter___designation], order: DESC }
         ) {
             edges {
                 node {
