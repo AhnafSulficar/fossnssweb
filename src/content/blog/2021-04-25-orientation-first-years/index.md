@@ -6,7 +6,7 @@ cover: "./FOSS.png"
 tag: "Orientation"
 author: "Rohith-Ramesh"
 name: "Rohith Ramesh"
-title: "Orientation program for 1st years"
+title: "Welcoming first years!"
 desc: " Orientation session on introduction to world of FOSS"
 ---
 
@@ -28,7 +28,7 @@ He gave the students a clear understanding of FOSS’s ideology and what it trul
 The main aim was to eradicate the misconceptions regarding the words free and open source and to show them an alternative path towards workable software. The latter part of the session was handled by Aaditya Anil K of 2nd year CSE and Bhadra Jayakumar of S6 CSE. 
 
 
-![Poster](./orientation.png)
+![Poster](./orientation-2021.png)
 
 
 Aaditya Anil gave an introductory talk on the world of Gimp and its benefits in comparison to photoshop providing the students with basic differences and software details. He also etched in his personal experiences with using Gimp. The last part of the program was handled by Bhadra Jayakumar of S6, elaborating her personal experiences of being part of FOSS cell NSSCE. 
