@@ -1,7 +1,7 @@
 ---
 name: "Bageeradhan K H"
 avathar: "https://github.com/BAGEERADHAN.png?size=200"
-designation: "Core Member"
+designation: "Project Lead"
 url: "http://github.com/BAGEERADHAN"
 dept: "CSE"
 email: "11bageeradhan9@gmail.com"

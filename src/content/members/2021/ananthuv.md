@@ -1,7 +1,7 @@
 ---
 name: "Ananthu V"
 avathar: "https://github.com/ananthuvng.png?size=200"
-designation: "Core Member"
+designation: "Project Lead"
 url: "http://github.com/ananthuvng"
 dept: "CSE"
 email: "ananthuvngmkd@gmail.com"
