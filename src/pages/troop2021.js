@@ -17,13 +17,14 @@ const SecondPage = ({ data }) => (
             {/* <h3 className='member-heading'>Meet our Team</h3> */}
             <div className='scoordinator'>
                 <div className='coordinator'>
-                    <a href='https://www.researchgate.net/profile/Syam_Sankar3'>
+                    <a href='https://scholar.google.co.in/citations?user=PwHP6YoAAAAJ&hl=en'>
+                        
                         <Img
                             fluid={data.imgStaffCo.childImageSharp.fluid}
                             className='profile-pic'
                         />
                         {/* <div className='profile-pic'></div> */}
-                        <h5>Syam Sankar</h5>
+                        <h5>Anuraj Mohan</h5>
                         <h6>Staff Co-ordinator</h6>
                     </a>
                 </div>
@@ -77,7 +78,7 @@ export const MembersQuery = graphql`
                 }
             }
         }
-        imgStaffCo: file(relativePath: { eq: "syamsankar.jpg" }) {
+        imgStaffCo: file(relativePath: { eq: "anuraj.jpeg" }) {
             childImageSharp {
                 fluid(maxWidth: 200) {
                     ...GatsbyImageSharpFluid_tracedSVG
