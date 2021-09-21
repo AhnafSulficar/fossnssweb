@@ -1,0 +1,43 @@
+---
+path: /blog/Onboarding-experience-with-FOSSNSS
+date: "2021-09-20"
+datestring: "20th September 2021"
+cover: "./fossnss.jpg"
+tag: "My Onboarding experience with FOSSNSS"
+author: "AnanyaSreeram"
+name: "Ananya Sreeram"
+title: "MY ONBOARDING EXPERIENCE."
+desc: "MY ONBOARDING EXPERIENCE WITH FOSSNSS'S TEAM."
+---
+
+
+**SALT**: Serving and learning together; doesn't the idea seem intriguing!
+
+Learning, growing, working, contributing, interacting and having fun at the same time seems cool and exciting to me.
+
+![poster](./fossnss.jpg)
+
+
+Basically I got the idea about FOSS NSSCE since this summer.The cell regularly conducts workshops in technical and technological areas. One among them was Intro to Web Development which interested me to the same.
+
+A few days back, FOSS NSSCE proclaimed a membership drive~ an opportunity for all NSSians to be a part of the same.
+I personally perceived the gravity of the opportunity and thought about giving it a shot since it's certainly worth it and I had the notion of how stimulating it would be to be a part and parcel of FOSS NSSCE.
+
+The membership drive had a certain series of 2 small yet contemplatory tasks.
+
+
+![poster](./fossmdposter.jpg)
+
+##STAGE-O AND STAGE-I:
+
+The first one was an elemental yet key task wherein I had to fork and star the primary FOSSNSS Repo, create a new membership issue and using certain specific frameworks do the beta testing for the official site of foss nss.
+All this wasn't a complete easy pass, however the core members of foss nss; my friends and seniors showed their diligent support throughout. 
+
+The second task was an interview.The word **Interview** may sound subtle even so it was a friendly conversation with the core members about my own self, foss's vision and an insight of it's working.
+
+
+It was a delightful experience for me and I am indeed glad to be a part of foss nssce. I would like to thank the cell for opening a room for all the enthusiasts.Looking forward to the exciting road ahead.✨
+
+_Reference:_
+
+-https://fossnss.org/
