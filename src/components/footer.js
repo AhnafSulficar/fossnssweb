@@ -13,8 +13,8 @@ const Footer = () => (
                         <a href='/'>Home</a>
                     </li>
                     <li>
-                        <a href='http://kutt.it/fossnss-membership' target='blank'>
-                            Become a member
+                        <a href='https://membership.fossnss.org' target='blank'>
+                            Membership
                         </a>
                     </li>
                     <li>
@@ -22,13 +22,12 @@ const Footer = () => (
                             Loomio Discussions Group
                         </a>
                     </li>
-                    <li>
-                    <Link to='/contact'>
-                            Contact us
-                    </Link>
-                    </li>
+
                     <li>
                         <Link to='/codeofconduct'> Code of Conduct </Link>
+                    </li>
+                    <li>
+                        <Link to='/supporters'> Our Supporters </Link>
                     </li>
                 </ul>
             </div>
@@ -52,6 +51,11 @@ const Footer = () => (
                         <a href='https://gitlab.com/fossnss/website'>
                             Website Source
                         </a>
+                    </li>
+                    <li>
+                    <Link to='/contact'>
+                            Contact us
+                    </Link>
                     </li>
                 </ul>
             </div>

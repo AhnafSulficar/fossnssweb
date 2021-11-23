@@ -84,6 +84,17 @@ module.exports = {
                 showSpinner: false,
             },
         },
+        {
+            resolve: 'gatsby-source-mastodon',
+            options: {
+              // The api url of your mastodon instance (e.g https://aus.social/api/v1)
+              api_url: 'https://mas.to/api/v1/',
+              // Number of toots to return
+              limit: 25,
+              // Access token for your Mastodon application
+              access_token: '3e6e-w7tWw-CRSj8VlgpFGNEmpklksOJ9bbQ5KI_CUU',
+            },
+        },
         // this (optional) plugin enables Progressive Web App + Offline functionality
         // To learn more, visit: https://gatsby.dev/offline
         //  `gatsby-plugin-offline`, Disable during initial devloping
