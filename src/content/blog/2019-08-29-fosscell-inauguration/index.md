@@ -40,20 +40,18 @@ With Narmadh's help, we could start the function on time by bringing Mr. Praveen
 
 Syam sir welcomed everyone and invited our Principal. The Principal, Sudha Ma'am mentioned the Contributions of Richard Mathew Stallman, The Founder of Free Software Foundation in the Free and open-source software community and explained why FOSS is important for us, the students. This is when I realized that the FOSS had a much bigger audience and following(Except me😢).
 
-![Principal addressing the students](./principal.jpg)
-<p style="text-align: center"><em>Principal, Dr Sudha Ma'am addressing the students</em></p>
+![Principal, Dr Sudha addressing the students](./principal.jpg)
 
 I also got to know about the usage of FOSS in students from departments like Mechanical, Civil etc. from Ma'am. Shortly after 
 Praveenettan inaugurated the ceremony by lighting the lamp. 
 
-![Lamp](./light.jpg)
-<p style="text-align: center"><em>Pirate Praveen lightening the lamp 🎉</em></p>
+![Pirate Praveen lighting the lamp 🎉](./light.jpg)
 
 ## Privacy Yatra
 
 After the inauguration, without stretching too much, Mr. Praveen and Mrs. Sruthi started the much-awaited 'Privacy Yathra'. At the beginning of the session, I just thought that it was about privacy in the cyber world. But his talk was mainly on why we need federated social media and Free software. Sruthi Chandran explained four freedoms and gave an intro about Free Software. I was under the impression that social media applications are in our control and that our private data is safe and secure inside them.
 
-![Privacy yatra talks - srud](./s.jpg)
+![Privacy yatra talks going on](./s.jpg)
 
 As the session was proceeding further I began to understand the reality of it. Social media had already become the strongest element in the world. He also mentioned the election campaign of Donald Trump in the US presidential election and How it was mainly concentrated on Facebook. In that election, there were a lot of challenges for Trump to win the election. But Facebook created a positive impact on trump in their social network and surprisingly Trump wins the election. I just thought how can it be happening? I was terrified by the impact of social media on our thought process.
 
