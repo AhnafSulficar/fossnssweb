@@ -11,6 +11,12 @@ html {
     color: $element-dark;
 }
 
+
+figure figcaption {
+    font-style: italic;
+    text-align: center;
+}
+
 .mainbody {
     display: flex;
     min-height: 100vh;
