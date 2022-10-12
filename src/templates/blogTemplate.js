@@ -53,7 +53,7 @@ export default function Template({
                         <img src="https://img.icons8.com/cotton/64/000000/comments--v2.png" alt="comment icon" />
                         <div>
                             <h2>Comments</h2>
-                            <span><p>Comments will be processed with privacy policy of <a href="https://utteranc.es">utteranc.es</a> and <a href="https://github.com">GitHub</a></p></span>
+                            <span><p>Comments will be processed with privacy policy of <a href="https://github.com">GitHub</a></p></span>
                         </div>
                     </div>
                     <ReactUtterences repo={'FOSSNSS/comment'} type={'url'} />
