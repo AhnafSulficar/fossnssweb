@@ -40,6 +40,14 @@ const NavLinks = () => {
                     EVENTS
                 </Link>
             </li>
+            <li>
+                <Link
+                    to='/minidebconf'
+                    activeClassName='active-link'
+                    partiallyActive={true}>
+                    MiniDebConf
+                </Link>
+            </li>
             
                 <div role="button" onMouseLeave={deactivateDropdownTroop} tabIndex={0}>
 

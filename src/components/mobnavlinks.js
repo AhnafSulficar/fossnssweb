@@ -47,6 +47,17 @@ const MobNavLinks = props => {
             <li>
                 <p>
                     <Link
+                        to='/minidebconf'
+                        activeClassName='mobactive-link'
+                        partiallyActive={true}
+                        onClick={props.action}>
+                        MiniDebConf
+                    </Link>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <Link
                         to='/about'
                         activeClassName='mobactive-link'
                         partiallyActive={true}
