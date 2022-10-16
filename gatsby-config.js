@@ -9,6 +9,7 @@ module.exports = {
         siteUrl: `https://fossnss.org`,
     },
     plugins: [
+        `gatsby-plugin-postcss`,
         `gatsby-plugin-sitemap`,
         `gatsby-plugin-react-helmet`,
         `gatsby-transformer-sharp`,
