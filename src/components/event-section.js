@@ -36,7 +36,8 @@ export default () => (
         `}
         render={data => (
             <div className='event-sect'>
-                <div className='event-text'>
+                {/* Tailwind css example */}
+                <div className='event-text text-center w-full'>
                     <h1 class='underline-small'>Latest Events</h1>
                 </div>
                 <div className='event-latest'>
